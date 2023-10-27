@@ -1,0 +1,55 @@
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.exe.config
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.pdb
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaDLL.dll
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaDLL.pdb
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.pdb
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.exe.config
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.exe
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.pdb
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaDLL.dll
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaDLL.pdb
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.exe
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.pdb
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.exe.config
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.exe
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.pdb
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaDLL.dll
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaDLL.pdb
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.exe
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.pdb
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\bin\Debug\GrafikaAlap.exe.config
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\bin\Debug\GrafikaAlap.exe
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\bin\Debug\GrafikaAlap.pdb
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\bin\Debug\GrafikaDLL.dll
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\bin\Debug\GrafikaDLL.pdb
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\obj\Debug\GrafikaAlap.exe
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaAlap\obj\Debug\GrafikaAlap.pdb

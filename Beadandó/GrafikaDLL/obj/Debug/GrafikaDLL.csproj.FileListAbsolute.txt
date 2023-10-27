@@ -1,0 +1,30 @@
+C:\Temp\BevGraf - C\GrafikaDLL\bin\Debug\GrafikaDLL.dll
+C:\Temp\BevGraf - C\GrafikaDLL\bin\Debug\GrafikaDLL.pdb
+C:\Temp\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.AssemblyReference.cache
+C:\Temp\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.CoreCompileInputs.cache
+C:\Temp\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.dll
+C:\Temp\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.pdb
+C:\Users\Troll Ede\Downloads\BevGraf - C\GrafikaDLL\bin\Debug\GrafikaDLL.dll
+C:\Users\Troll Ede\Downloads\BevGraf - C\GrafikaDLL\bin\Debug\GrafikaDLL.pdb
+C:\Users\Troll Ede\Downloads\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.AssemblyReference.cache
+C:\Users\Troll Ede\Downloads\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.CoreCompileInputs.cache
+C:\Users\Troll Ede\Downloads\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.dll
+C:\Users\Troll Ede\Downloads\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.pdb
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaDLL\bin\Debug\GrafikaDLL.dll
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaDLL\bin\Debug\GrafikaDLL.pdb
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.AssemblyReference.cache
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.CoreCompileInputs.cache
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.dll
+C:\Users\Bazsi201\Desktop\bead4\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.pdb
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaDLL\bin\Debug\GrafikaDLL.dll
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaDLL\bin\Debug\GrafikaDLL.pdb
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.AssemblyReference.cache
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.CoreCompileInputs.cache
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.dll
+C:\Users\Bazsi201\Desktop\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.pdb
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.AssemblyReference.cache
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.CoreCompileInputs.cache
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaDLL\obj\Debug\GrafikaDLL.dll
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaDLL\obj\Debug\GrafikaDLL.pdb
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaDLL\bin\Debug\GrafikaDLL.dll
+C:\Users\Bazsi201\Desktop\Beadandó\GrafikaDLL\bin\Debug\GrafikaDLL.pdb
